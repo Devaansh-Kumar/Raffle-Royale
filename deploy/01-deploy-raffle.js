@@ -64,4 +64,4 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
 
 module.exports.tags = ["raffle", "all"];
 
-// deployed at https://goerli.etherscan.io/address/0x0fa138CE0f42Fe58864E7f767416e24488BB4831
+// deployed at https://goerli.etherscan.io/address/0x41eD3fDeEfbf49Fd26454B150505F829bbCF6bfF
